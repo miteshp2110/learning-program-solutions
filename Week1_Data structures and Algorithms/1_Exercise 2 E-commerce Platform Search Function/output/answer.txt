@@ -1,0 +1,18 @@
+Q. Explain Big (O) Notation:
+Ans. It describes the performance of the algorithm using the mathematical functions like O(1) -> constant , O(n) -> linear , O(log n) -> logirithmic
+
+Q. Best,Avg , Worst for search opearations:
+Ans. Linear Search :
+        Best : Target is first element , O(1)
+        Avg : Average case for sample , O(n)
+        Worst : The target is in the last , O(n)
+     Binary Search :
+        Best : Target is first element , O(1)
+        Avg : Average case for sample , O(log n)
+        Worst : The target is in the last or not there , O(log n)
+
+
+Analysis :
+
+Q. Which is best for our system:
+Ans. For our case , if the data is big and sorted then Binary Search and if Data is small and not sorted then Linear Search.
