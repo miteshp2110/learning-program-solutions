@@ -1,0 +1,10 @@
+Q. Explain recurssion
+
+Ans. Recurssion is calling of function by the function itself
+
+Q. Time complexity of my Algorithm
+
+Ans . O(n) : here n is number of years.
+
+Q. How to optimize the Recurssion
+Ans . By providing a base condition , that further then this there is no need of calculation , we can avoid excess calculation.
