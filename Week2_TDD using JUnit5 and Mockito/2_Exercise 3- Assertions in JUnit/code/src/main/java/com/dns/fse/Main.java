@@ -1,4 +1,4 @@
-package com.jfsd.exam;
+package com.dns.fse;
 
 public class Main {
     public static void main(String[] args) {
