@@ -23,6 +23,11 @@ Welcome to my repository for Cognizant's Digital Nurture 4.0 program. Java FSE.
 
 ###  Week 2
 
+<summary><strong> PL/SQL programming</strong></summary>
+
+-  [Control Structures](./Week2_PL-SQL%20programming/1_Exercise%201-%20Control%20Structures)
+-  [Stored Procedures](./Week2_PL-SQL%20programming/2_Exercise%203-%20Stored%20Procedures)
+
 <summary><strong> TDD using JUnit5 and Mockito</strong></summary>
 
 -  [Setting Up JUnit](./Week2_TDD%20using%20JUnit5%20and%20Mockito/1_Exercise%201-%20Setting%20Up%20JUnit/code/src/test/java)
