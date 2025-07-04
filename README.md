@@ -43,3 +43,19 @@ Welcome to my repository for Cognizant's Digital Nurture 4.0 program. Java FSE.
 -  [Logging Error Messages and Warning Levels](./Week2_SLF4J%20logging%20framework/1_Exercise%201-%20Logging%20Error%20Messages%20and%20Warning%20Levels/code/src/main/java/com/jfsd/exam)
 
 
+###  Week 3
+
+<summary><strong> Spring Core and Maven</strong></summary>
+
+-  [Configuring a Basic Spring Application](Week3_Spring%20Core%20and%20Maven/1_Exercise%201-%20Configuring%20a%20Basic%20Spring%20Application/code/LibraryManagement)
+-  [Implementing Dependency Injection](Week3_Spring%20Core%20and%20Maven/2_Exercise%202-%20Implementing%20Dependency%20Injection/code/LibraryManagement)
+-  [Creating and Configuring a Maven Project](Week3_Spring%20Core%20and%20Maven/3_Exercise%204-%20Creating%20and%20Configuring%20a%20Maven%20Project/code/LibraryManagement)
+
+
+
+<summary><strong> Spring Data JPA with Spring Boot, Hibernate</strong></summary>
+
+-  [Spring Data JPA - Quick Example](Week3_Spring%20Data%20JPA%20with%20Spring%20Boot%2C%20Hibernate/1_Spring%20Data%20JPA%20-%20Quick%20Example/code/orm-learn)
+-  [Difference between JPA, Hibernate and Spring Data JPA](Week3_Spring%20Data%20JPA%20with%20Spring%20Boot%2C%20Hibernate/2_Difference%20between%20JPA%2C%20Hibernate%20and%20Spring%20Data%20JPA/code/answer.txt)
+
+
