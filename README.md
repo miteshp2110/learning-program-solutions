@@ -70,6 +70,14 @@ Welcome to my repository for Cognizant's Digital Nurture 4.0 program. Java FSE.
 -  [REST - Get country based on country code](./Week4_Spring%20REST%20using%20Spring%20Boot%203/4_REST%20-%20Country%20Web%20Service/code/src/main)
 -  [Create authentication service that returns JWT](./Week4_Spring%20REST%20using%20Spring%20Boot%203/6_Create%20authentication%20service%20that%20returns%20JWT/code/src)
 
+###  Week 5
+
+<summary><strong> Microservices with Spring Boot 3 and Spring Cloud</strong></summary>
+
+-  [Creating Microservices for account and loan](./Week5_Microservices%20with%20Spring%20Boot%203%20and%20Spring%20Cloud/1_Creating%20Microservices%20for%20account%20and%20loan/code/microservices)
+
+
+
 
 
 
