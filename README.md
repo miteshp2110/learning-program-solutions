@@ -59,3 +59,17 @@ Welcome to my repository for Cognizant's Digital Nurture 4.0 program. Java FSE.
 -  [Difference between JPA, Hibernate and Spring Data JPA](Week3_Spring%20Data%20JPA%20with%20Spring%20Boot%2C%20Hibernate/2_Difference%20between%20JPA%2C%20Hibernate%20and%20Spring%20Data%20JPA/code/answer.txt)
 
 
+###  Week 4
+
+<summary><strong> Spring REST using Spring Boot 3</strong></summary>
+
+-  [Create a Spring Web Project using Maven](./Week4_Spring%20REST%20using%20Spring%20Boot%203/1_Create%20a%20Spring%20Web%20Project%20using%20Maven/code/src)
+-  [Spring Core – Load Country from Spring Configuration XML](./Week4_Spring%20REST%20using%20Spring%20Boot%203/2_Spring%20Core%20–%20Load%20Country%20from%20Spring%20Configuration%20XML/code/src/main)
+-  [Hello World RESTful Web Service](./Week4_Spring%20REST%20using%20Spring%20Boot%203/3_Hello%20World%20RESTful%20Web%20Service/code/src/main)
+-  [REST - Country Web Service](./Week4_Spring%20REST%20using%20Spring%20Boot%203/4_REST%20-%20Country%20Web%20Service/code/src/main)
+-  [REST - Get country based on country code](./Week4_Spring%20REST%20using%20Spring%20Boot%203/4_REST%20-%20Country%20Web%20Service/code/src/main)
+-  [Create authentication service that returns JWT](./Week4_Spring%20REST%20using%20Spring%20Boot%203/6_Create%20authentication%20service%20that%20returns%20JWT/code/src)
+
+
+
+
