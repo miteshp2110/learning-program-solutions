@@ -76,6 +76,16 @@ Welcome to my repository for Cognizant's Digital Nurture 4.0 program. Java FSE.
 
 -  [Creating Microservices for account and loan](./Week5_Microservices%20with%20Spring%20Boot%203%20and%20Spring%20Cloud/1_Creating%20Microservices%20for%20account%20and%20loan/code/microservices)
 
+###  Week 6
+
+<summary><strong> React</strong></summary>
+
+-  [1 ReactJS-HOL](./Week6_React/1_ReactJS-HOL/)
+-  [2 ReactJS-HOL](./Week6_React/2_ReactJS-HOL/)
+-  [3 ReactJS-HOL](./Week6_React/3_ReactJS-HOL/)
+-  [4 ReactJS-HOL](./Week6_React/4_ReactJS-HOL/)
+-  [5 ReactJS-HOL](./Week6_React/5_ReactJS-HOL/)
+
 
 
 
