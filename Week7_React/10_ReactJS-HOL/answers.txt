@@ -1,0 +1,20 @@
+Define JSX
+JSX stands for JavaScript XML. It's a syntax extension for JavaScript that lets you write HTML-like code directly within your JavaScript files, making it easier to create and visualize UI components in React.
+
+Explain about ECMA Script
+ECMAScript is a scripting-language specification standardized by Ecma International. JavaScript is the most well-known implementation of this standard, so new versions of ECMAScript (like ES6) bring new features and syntax to JavaScript.
+
+Explain React.createElement()
+React.createElement() is the function that JSX gets compiled down to by tools like Babel. It creates and returns a new React element, which is an object that describes a UI component or a DOM node.
+
+Explain how to create React nodes with JSX
+You create React nodes with JSX simply by writing HTML-like syntax directly in your JavaScript code. For instance, const element = <h1>Hello, world!</h1>; creates a React element representing an h1 heading.
+
+Define how to render JSX to DOM
+To render JSX to the DOM, you typically use ReactDOM.createRoot() to specify a container element in your HTML, and then call its render() method with your JSX component, like root.render(<MyApp />).
+
+Explain how to use JavaScript expressions in JSX
+You can embed any JavaScript expression within JSX by wrapping it in curly braces {}. This allows you to use variables, function calls, or arithmetic operations directly inside your markup, for example: <h1>{user.name}</h1>.
+
+Explain how to use inline CSS in JSX
+To apply inline styles in JSX, you use the style attribute with a JavaScript object. The keys of the object are camelCased CSS properties, and the values are the CSS values, like style={{ backgroundColor: 'red', fontSize: '12px' }}.
