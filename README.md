@@ -86,6 +86,27 @@ Welcome to my repository for Cognizant's Digital Nurture 4.0 program. Java FSE.
 -  [4 ReactJS-HOL](./Week6_React/4_ReactJS-HOL/)
 -  [5 ReactJS-HOL](./Week6_React/5_ReactJS-HOL/)
 
+###  Week 7
+
+<summary><strong> React</strong></summary>
+
+-  [1 ReactJS-HOL](./Week7_React/9_ReactJS-HOL/)
+-  [2 ReactJS-HOL](./Week7_React/10_ReactJS-HOL/)
+-  [3 ReactJS-HOL](./Week7_React/11_ReactJS-HOL/)
+-  [4 ReactJS-HOL](./Week7_React/12_ReactJS-HOL/)
+-  [5 ReactJS-HOL](./Week7_React/13_ReactJS-HOL/)
+
+###  Week 8
+
+<summary><strong> GIT </strong></summary>
+
+-  [1 ReactJS-HOL](./Week8_GIT/1_Git-HOL/)
+-  [2 ReactJS-HOL](./Week8_GIT/2_Git-HOL/)
+-  [3 ReactJS-HOL](./Week8_GIT/3_Git-HOL/)
+-  [4 ReactJS-HOL](./Week8_GIT/4_Git-HOL/)
+-  [5 ReactJS-HOL](./Week8_GIT/5_Git-HOL/)
+
+
 
 
 
