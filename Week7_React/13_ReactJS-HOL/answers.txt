@@ -1,0 +1,17 @@
+Explain various ways of conditional rendering
+There are several ways to conditionally render content in React. You can use a standard if...else statement, a more concise ternary operator (condition ? <ShowThis /> : <ShowThat />), or the logical && operator to render something only if a condition is true (condition && <ShowThis />).
+
+Explain how to render multiple components
+To render multiple components, you typically map over an array of data. For each item in the array, you return a JSX element, which creates a dynamic list of components based on the data.
+
+Define list component
+A list component is a React component designed to render a collection of items. It usually accepts an array of data as a prop and uses the .map() function to iterate over the array and generate a list of JSX elements to display.
+
+Explain about keys in React applications
+Keys are special string attributes you need to include when creating lists of elements. They help React identify which items have changed, been added, or been removed, which is crucial for efficiently updating the UI and maintaining state between re-renders. Keys must be unique among siblings.
+
+Explain how to extract components with keys
+When you extract a list item into its own component, the key should be assigned to the component tag within the .map() loop. The key needs to be on the elements in the array you are mapping over, not on an element inside the extracted component's render method.
+
+Explain React Map, map() function
+The .map() function is a standard JavaScript array method, not something specific to React. It creates a new array by calling a function on every element in the source array. In React, it's the standard way to transform an array of data into an array of JSX elements to be rendered.

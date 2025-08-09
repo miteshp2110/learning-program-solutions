@@ -3,3 +3,6 @@ out
 *.iml
 
 **/node_modules/
+
+.log
+/logs
